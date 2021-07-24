@@ -1,5 +1,6 @@
 import numpy as np
 
+# 수정사항!
 index = 1
 
 # 1.Write a NumPy program to get the numpy version and show numpy build configuration
